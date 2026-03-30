@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1049152511285",
+    "project_id": "colombia-words-and-expre-fdc82",
+    "storage_bucket": "colombia-words-and-expre-fdc82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049152511285:android:255b3d6f10099e78c8407c",
+        "android_client_info": {
+          "package_name": "com.example.colombia_word_and_expression"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6d7spqOJaheQXkTLO4Rsn_k9audpe1mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049152511285:android:f31cbd411e9cba4cc8407c",
+        "android_client_info": {
+          "package_name": "com.example.colombia_words_and_expressions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6d7spqOJaheQXkTLO4Rsn_k9audpe1mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049152511285:android:cc8ee60eacb3ca93c8407c",
+        "android_client_info": {
+          "package_name": "cwae.package"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6d7spqOJaheQXkTLO4Rsn_k9audpe1mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
